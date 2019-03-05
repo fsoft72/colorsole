@@ -1,0 +1,13 @@
+{
+  "version": "0.1.0",
+  "name": "colorsole",
+  "description": "Put colors in your debugging messages",
+  "author": "Fabio Rotondo <fabio.rotondo@gmail.com>",
+  "keywords": [
+    "console",
+    "debug"
+  ],
+  "main": "./index.js",
+  "repository": "git@github.com:fsoft72/colorsole.git",
+  "license": "MIT"
+}
